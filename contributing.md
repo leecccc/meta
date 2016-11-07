@@ -1,11 +1,13 @@
 
-**Git Quickstart**
+# Contributing Guide
+
 1. Find a GitHub project you want to contribute to, and copy its HTTP/SSH link. For example, `https://github.com/leecccc/hyperbot.git`
 2. Fork the project so you have your own copy.
 2. On your computer, make a folder you want the project to be in and clone the project by running `git clone https://github.com/branden-akana/hyperbot` inside the folder.
 3. *SWITCH TO THE `develop` BRANCH* if you already haven't: `git checkout develop`
 
-**Workflow**
+## Workflow
+
 Pull the latest changes from the upstream repository (the official one)
 ```bash
 # gets all new commits from the upstream repository and merges it with your local copy
